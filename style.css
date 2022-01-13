@@ -1,0 +1,127 @@
+#h11{
+    color:rgb(0, 0, 255);
+}
+.btn-outline-light{
+    background-color: white;
+    color: black;
+}
+.btn-outline-light:hover{
+    background-color: transparent;
+    color:red;
+}
+.btn-primary:hover{
+    background-color: white;
+    color: #000;    
+}
+.img {
+    width: 100%;
+    height: 20vh;
+}
+.div1{
+    color: #000;
+    opacity: 80%;
+}
+.div1:hover{
+   
+    opacity: 80%;
+}
+.team-member-img:hover{
+    zoom: 55%;
+}
+.div2:hover{
+    opacity: 70%;
+}
+#work_banner{
+    background-image: url(../img/banner-bg-02.jpg);
+}
+.sec7{
+   
+    background-image: url(../img/feature-work-1-large.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: 100% 100vh;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+/*start of div7*/
+.div7{
+    background-color:rgb(0, 102, 102);
+    opacity: 80%;
+    width: 60%;
+    height: 92vh;
+    color: white;
+    border: 3px solid greenyellow;
+    margin: auto;
+    margin-top: 25px;
+    
+}
+input .value{
+    opacity: 80%;
+}
+.div7 .H7{
+    text-align: center;
+    font-size: 35px;
+}
+.div7 .p2{
+    text-align: center;
+}
+#inputState{
+    width: 85%;
+    height: 50px;
+    padding: 10px;
+    margin-left: 55px;
+    margin-top: 12px;
+    color: greenyellow;
+   background-color: rgb(1, 70, 70);
+   border-width: 0px 0px 3px 0px;
+    border-style: solid;
+    border-color:greenyellow;
+   border-radius: 3px;
+}
+input[type=text],
+input[type=email],
+#inputPassword4{
+    width: 85%;
+    height: 30px;
+    padding: 10px;
+    margin-left: 55px;
+    margin-top: 12px;
+    color: greenyellow;
+   background-color: rgb(1, 70, 70);
+   border-width: 0px 0px 3px 0px;
+    border-style: solid;
+    border-color:greenyellow;
+   border-radius: 3px;
+}
+textarea{
+    width: 85%;
+    height: 140px;
+    padding: 10px;
+    margin-left: 55px;
+    margin-top: 15px;
+    color: greenyellow;
+    background-color: rgb(1, 70, 70);
+    border-width: 0px 0px 3px 0px;
+    border-style: solid;
+    border-color:greenyellow;
+    border-radius: 3px;
+}
+input[type=submit]{
+    display: block;
+    width: 22%;
+    padding: 10px 3px;
+    margin: 10px auto 0;
+    border: 3px solid greenyellow ;
+    border-radius: 5px;
+    background-color: rgb(1, 70, 70) ;
+    font-size: 20px;
+    color: greenyellow;
+}
+input[type=submit]:hover{
+    background-color: white;
+    color: yellowgreen;
+}
+.form-check{
+    margin-left: 60px;
+    margin-top: 10px;
+}
